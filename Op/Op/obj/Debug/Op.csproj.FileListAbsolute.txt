@@ -1,0 +1,9 @@
+C:\Users\brend\Desktop\lab daf\Op\Op\bin\Debug\Op.exe.config
+C:\Users\brend\Desktop\lab daf\Op\Op\obj\Debug\Op.csprojResolveAssemblyReference.cache
+C:\Users\brend\Desktop\lab daf\Op\Op\obj\Debug\Op.Form1.resources
+C:\Users\brend\Desktop\lab daf\Op\Op\obj\Debug\Op.Properties.Resources.resources
+C:\Users\brend\Desktop\lab daf\Op\Op\obj\Debug\Op.csproj.GenerateResource.Cache
+C:\Users\brend\Desktop\lab daf\Op\Op\bin\Debug\Op.exe
+C:\Users\brend\Desktop\lab daf\Op\Op\bin\Debug\Op.pdb
+C:\Users\brend\Desktop\lab daf\Op\Op\obj\Debug\Op.exe
+C:\Users\brend\Desktop\lab daf\Op\Op\obj\Debug\Op.pdb
